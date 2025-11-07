@@ -11,7 +11,9 @@ These Kinematics equations relate an object's displacement, s, initial velocity 
 
 Program Features
 Interactive Jupyter Widgets for input and outputs.
+
 This program takes inputs of varibales as list, allowing single input or lists. 
+
 Statistical summary and export of results as CSV
 
 
