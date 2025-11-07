@@ -1,0 +1,10 @@
+voila
+pandas
+numpy
+matplotlib
+itertools
+csv
+ipywidgets
+IPython
+scipy
+ipyfilechooser
