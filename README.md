@@ -17,8 +17,10 @@ These Kinematics equations relate an object's displacement, s, initial velocity 
 *Interactive Jupyter Widgets for input and outputs.<br>
 *This program accepts inputs of variables as a list, allowing single inputs, ranges, or lists. <br>
 *Statistical summary and export of results as CSV.<br>
-*Accessible downloads at <br>
 
+
+# Accessing Downloads 
+*Accessible downloads at <br>
 [(https://hub.2i2c.mybinder.org/user/opeyemiman-ogop--calculator-web-5x4rwpzc/lab)]
 
 
