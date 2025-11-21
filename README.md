@@ -19,6 +19,11 @@ This program takes inputs of variables as list, allowing single input, ranges or
 
 Statistical summary and export of results as CSV
 
+Accessible downloads at
+
+[(https://hub.2i2c.mybinder.org/user/opeyemiman-ogop--calculator-web-5x4rwpzc/lab)]
+
+
 
 
 Disclaimer
