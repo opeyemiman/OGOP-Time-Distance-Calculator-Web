@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opeyemiman/OGOP-Time-Distance-Calculator-Web.git/main?urlpath=voila/render/Time-Distance-Calculator_Web.ipynb)
 # OGOP-Time-Distance-Calculator
 For Newton’s equations of motion with constant acceleration, given 3 of 5 variables (V,U,A,T,S), this calculator solves for the remaining 2. 
 
