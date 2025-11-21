@@ -6,4 +6,3 @@ ipywidgets
 IPython
 scipy
 ipyfilechooser
-
